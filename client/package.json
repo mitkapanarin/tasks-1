@@ -10,11 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "@mui/icons-material": "^5.11.16",
     "@reduxjs/toolkit": "^1.9.5",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.9.0",
     "react-redux": "^8.0.5",
     "react-router-dom": "^6.11.2",
     "react-toastify": "^9.1.3"
